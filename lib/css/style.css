@@ -1,0 +1,46 @@
+﻿body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+video {
+    margin: 21px auto;
+}
+
+img {
+    color: gray;
+}
+
+#camp {
+    height: 527px;
+    width: 896px;
+    margin: 21px auto;
+}
+
+footer {
+    text-align: right;
+}
